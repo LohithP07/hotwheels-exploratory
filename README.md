@@ -2,8 +2,6 @@
 
 Explore Hot Wheels Releases — Your guide to upcoming Hot Wheels drops — all upcoming cars in one place.
 
-![Hotwheels-Exploratory Screenshot](https://via.placeholder.com/800x400?text=Hotwheels-Exploratory+Screenshot)
-
 ## Table of Contents
 
 1. [About](#about)
@@ -14,7 +12,6 @@ Explore Hot Wheels Releases — Your guide to upcoming Hot Wheels drops — all 
 6. [How to Add New Cars](#how-to-add-new-cars)
 7. [Scripts Included](#scripts-included)
 8. [Contributing](#contributing)
-9. [License](#license)
 
 ## About
 
@@ -130,11 +127,5 @@ Open `public/data/cars.json` and review the added cars. Add missing details (ori
 3. Commit your changes (`git commit -m 'Add some feature'`)
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Open a Pull Request
-
-## License
-
-[MIT](LICENSE)
-
----
 
 *Built for the Hot Wheels collector community. Not affiliated with Mattel or Hot Wheels.*
