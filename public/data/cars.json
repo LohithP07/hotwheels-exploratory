@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "twin-mill",
+    "name": "Twin Mill",
+    "castingName": "Twin Mill",
+    "origin": "Original Hot Wheels casting",
+    "country": "USA",
+    "series": "Mainline",
+    "yearIntroduced": 1969,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": null,
+    "releaseDate": null,
+    "availability": "Out of Production",
+    "images": {
+      "diecast": null,
+      "realCar": null,
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Supercar"
+  },
+  {
+    "id": "bone-shaker",
+    "name": "Bone Shaker",
+    "castingName": "Bone Shaker",
+    "origin": "Original Hot Wheels casting",
+    "country": "USA",
+    "series": "Mainline",
+    "yearIntroduced": 2007,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": null,
+    "releaseDate": null,
+    "availability": "Out of Production",
+    "images": {
+      "diecast": null,
+      "realCar": null,
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Muscle"
+  },
+  {
+    "id": "67-camaro",
+    "name": "'67 Camaro",
+    "castingName": "'67 Camaro",
+    "origin": "Chevrolet Camaro",
+    "country": "USA",
+    "series": "Mainline",
+    "yearIntroduced": 1969,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": null,
+    "releaseDate": null,
+    "availability": "Out of Production",
+    "images": {
+      "diecast": null,
+      "realCar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/1967_Chevrolet_Camaro_RS.jpg/320px-1967_Chevrolet_Camaro_RS.jpg",
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Muscle"
+  },
+  {
+    "id": "69-charger",
+    "name": "'69 Charger",
+    "castingName": "'69 Charger",
+    "origin": "Dodge Charger",
+    "country": "USA",
+    "series": "Mainline",
+    "yearIntroduced": 1969,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": null,
+    "releaseDate": null,
+    "availability": "Out of Production",
+    "images": {
+      "diecast": null,
+      "realCar": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/1969_Dodge_Charger_RT.jpg/320px-1969_Dodge_Charger_RT.jpg",
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Muscle"
+  },
+  {
+    "id": "55-chevy",
+    "name": "'55 Chevy",
+    "castingName": "'55 Chevy",
+    "origin": "Chevrolet Bel Air",
+    "country": "USA",
+    "series": "Mainline",
+    "yearIntroduced": 1971,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": null,
+    "releaseDate": null,
+    "availability": "Out of Production",
+    "images": {
+      "diecast": null,
+      "realCar": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/1955_Chevrolet_Bel_Air.jpg/320px-1955_Chevrolet_Bel_Air.jpg",
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Muscle"
+  },
+  {
+    "id": "hw-50-nissan-skyline-gt-r-r34",
+    "name": "HW 50 Nissan Skyline GT-R R34",
+    "castingName": "Nissan Skyline GT-R R34",
+    "origin": "Nissan Skyline GT-R",
+    "country": "Japan",
+    "series": "HW 50th Anniversary",
+    "yearIntroduced": 2018,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": null,
+    "releaseDate": null,
+    "availability": "Out of Production",
+    "images": {
+      "diecast": null,
+      "realCar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nissan_Skyline_GT-R_R34.jpg/320px-Nissan_Skyline_GT-R_R34.jpg",
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Sports Car"
+  },
+  {
+    "id": "2027-mainline-case-a-1",
+    "name": "2027 Mainline Case A - First Wave",
+    "castingName": "Various",
+    "origin": "Hot Wheels Mainline",
+    "country": "Malaysia",
+    "series": "Mainline 2027",
+    "yearIntroduced": 2027,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": "Case A",
+    "releaseDate": "2027-01-15",
+    "availability": "Upcoming",
+    "images": {
+      "diecast": null,
+      "realCar": null,
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Sports Car"
+  },
+  {
+    "id": "2027-mainline-case-b",
+    "name": "2027 Mainline Case B",
+    "castingName": "Various",
+    "origin": "Hot Wheels Mainline",
+    "country": "Malaysia",
+    "series": "Mainline 2027",
+    "yearIntroduced": 2027,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": "Case B",
+    "releaseDate": "2027-04-01",
+    "availability": "Upcoming",
+    "images": {
+      "diecast": null,
+      "realCar": null,
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Sports Car"
+  },
+  {
+    "id": "2027-mainline-case-c",
+    "name": "2027 Mainline Case C",
+    "castingName": "Various",
+    "origin": "Hot Wheels Mainline",
+    "country": "Malaysia",
+    "series": "Mainline 2027",
+    "yearIntroduced": 2027,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": "Case C",
+    "releaseDate": "2027-07-15",
+    "availability": "Upcoming",
+    "images": {
+      "diecast": null,
+      "realCar": null,
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Sports Car"
+  },
+  {
+    "id": "2026-treasure-hunt-1",
+    "name": "2026 Treasure Hunt - '67 Camaro TH",
+    "castingName": "'67 Camaro",
+    "origin": "Chevrolet Camaro",
+    "country": "USA",
+    "series": "Mainline TH",
+    "yearIntroduced": 1969,
+    "treasureHunt": true,
+    "superTreasureHunt": false,
+    "caseLetter": "Case M",
+    "releaseDate": "2026-09-01",
+    "availability": "In Stores",
+    "images": {
+      "diecast": null,
+      "realCar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/1967_Chevrolet_Camaro_RS.jpg/320px-1967_Chevrolet_Camaro_RS.jpg",
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Muscle"
+  },
+  {
+    "id": "2026-super-treasure-hunt-1",
+    "name": "2026 Super Treasure Hunt - Twin Mill STH",
+    "castingName": "Twin Mill",
+    "origin": "Original Hot Wheels casting",
+    "country": "USA",
+    "series": "Mainline STH",
+    "yearIntroduced": 1969,
+    "treasureHunt": false,
+    "superTreasureHunt": true,
+    "caseLetter": "Case Q",
+    "releaseDate": "2026-10-15",
+    "availability": "In Stores",
+    "images": {
+      "diecast": null,
+      "realCar": null,
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Supercar"
+  },
+  {
+    "id": "rlc-2026-ferrari-f40",
+    "name": "RLC 2026 Ferrari F40",
+    "castingName": "Ferrari F40",
+    "origin": "Ferrari F40",
+    "country": "Italy",
+    "series": "RLC",
+    "yearIntroduced": 1987,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": null,
+    "releaseDate": "2026-11-01",
+    "availability": "Upcoming",
+    "images": {
+      "diecast": null,
+      "realCar": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ferrari_F40_%2831319700556%29.jpg/320px-Ferrari_F40_%2831319700556%29.jpg",
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Supercar"
+  },
+  {
+    "id": "car-culture-2026-nissan-silvia-s15",
+    "name": "Car Culture 2026 Nissan Silvia S15",
+    "castingName": "Nissan Silvia S15",
+    "origin": "Nissan Silvia",
+    "country": "Japan",
+    "series": "Car Culture",
+    "yearIntroduced": 1999,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": null,
+    "releaseDate": "2026-12-01",
+    "availability": "Upcoming",
+    "images": {
+      "diecast": null,
+      "realCar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Nissan_Silvia_S15.jpg/320px-Nissan_Silvia_S15.jpg",
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Coupe"
+  },
+  {
+    "id": "premium-2027-porsche-911-gt3-rs",
+    "name": "Premium 2027 Porsche 911 GT3 RS",
+    "castingName": "Porsche 911 GT3 RS",
+    "origin": "Porsche 911",
+    "country": "Germany",
+    "series": "Premium",
+    "yearIntroduced": 2018,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": null,
+    "releaseDate": "2027-02-01",
+    "availability": "Upcoming",
+    "images": {
+      "diecast": null,
+      "realCar": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Porsche_911_GT3_RS_%28992%29.jpg/320px-Porsche_911_GT3_RS_%28992%29.jpg",
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Sports Car"
+  },
+  {
+    "id": "hw-monster-jam-2026-grave-digger",
+    "name": "HW Monster Jam 2026 Grave Digger",
+    "castingName": "Grave Digger",
+    "origin": "Monster Jam",
+    "country": "USA",
+    "series": "Monster Jam",
+    "yearIntroduced": 2020,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": null,
+    "releaseDate": "2026-11-15",
+    "availability": "Upcoming",
+    "images": {
+      "diecast": null,
+      "realCar": null,
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Truck"
+  },
+  {
+    "id": "fast-furious-2026-dom-dodge-charger",
+    "name": "Fast & Furious 2026 Dom's Dodge Charger",
+    "castingName": "Dodge Charger",
+    "origin": "Dodge Charger",
+    "country": "USA",
+    "series": "Fast & Furious",
+    "yearIntroduced": 2001,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": null,
+    "releaseDate": "2026-12-15",
+    "availability": "Upcoming",
+    "images": {
+      "diecast": null,
+      "realCar": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/1969_Dodge_Charger_RT.jpg/320px-1969_Dodge_Charger_RT.jpg",
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Muscle"
+  },
+  {
+    "id": "hw-city-2027-tesla-cybertruck",
+    "name": "HW City 2027 Tesla Cybertruck",
+    "castingName": "Tesla Cybertruck",
+    "origin": "Tesla Cybertruck",
+    "country": "USA",
+    "series": "HW City",
+    "yearIntroduced": 2024,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": null,
+    "releaseDate": "2027-03-01",
+    "availability": "Upcoming",
+    "images": {
+      "diecast": null,
+      "realCar": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Tesla_Cybertruck.jpg/320px-Tesla_Cybertruck.jpg",
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Truck"
+  },
+  {
+    "id": "2026-holiday-special",
+    "name": "2026 Holiday Special - Twin Mill",
+    "castingName": "Twin Mill",
+    "origin": "Original Hot Wheels casting",
+    "country": "USA",
+    "series": "Holiday Special",
+    "yearIntroduced": 1969,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": null,
+    "releaseDate": "2026-12-01",
+    "availability": "Upcoming",
+    "images": {
+      "diecast": null,
+      "realCar": null,
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Supercar"
+  },
+  {
+    "id": "redline-67-camaro",
+    "name": "'67 Camaro (Redline)",
+    "castingName": "'67 Camaro",
+    "origin": "Chevrolet Camaro",
+    "country": "USA",
+    "series": "Redline Series",
+    "yearIntroduced": 1969,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": null,
+    "releaseDate": null,
+    "availability": "Out of Production",
+    "images": {
+      "diecast": null,
+      "realCar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/1967_Chevrolet_Camaro_RS.jpg/320px-1967_Chevrolet_Camaro_RS.jpg",
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "Hot Wheels Fandom Wiki",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Muscle"
+  },
+  {
+    "id": "redline-twin-mill",
+    "name": "Twin Mill (Redline)",
+    "castingName": "Twin Mill",
+    "origin": "Original Hot Wheels casting",
+    "country": "USA",
+    "series": "Redline Series",
+    "yearIntroduced": 1969,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": null,
+    "releaseDate": null,
+    "availability": "Out of Production",
+    "images": {
+      "diecast": null,
+      "realCar": null,
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "Hot Wheels Fandom Wiki",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Supercar"
+  },
+  {
+    "id": "redline-bone-shaker",
+    "name": "Bone Shaker (Redline)",
+    "castingName": "Bone Shaker",
+    "origin": "Original Hot Wheels casting",
+    "country": "USA",
+    "series": "Redline Series",
+    "yearIntroduced": 2007,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": null,
+    "releaseDate": null,
+    "availability": "Out of Production",
+    "images": {
+      "diecast": null,
+      "realCar": null,
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "Hot Wheels Fandom Wiki",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Muscle"
+  },
+  {
+    "id": "2027-mainline-case-d",
+    "name": "2027 Mainline Case D",
+    "castingName": "Various",
+    "origin": "Hot Wheels Mainline",
+    "country": "Malaysia",
+    "series": "Mainline 2027",
+    "yearIntroduced": 2027,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": "Case D",
+    "releaseDate": "2027-10-01",
+    "availability": "Upcoming",
+    "images": {
+      "diecast": null,
+      "realCar": null,
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Sports Car"
+  },
+  {
+    "id": "2026-mainline-case-o",
+    "name": "2026 Mainline Case O",
+    "castingName": "Various",
+    "origin": "Hot Wheels Mainline",
+    "country": "Malaysia",
+    "series": "Mainline 2026",
+    "yearIntroduced": 2026,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": "Case O",
+    "releaseDate": "2026-08-01",
+    "availability": "In Stores",
+    "images": {
+      "diecast": null,
+      "realCar": null,
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Sports Car"
+  },
+  {
+    "id": "rlc-2026-nissan-gt-r",
+    "name": "RLC 2026 Nissan GT-R",
+    "castingName": "Nissan GT-R",
+    "origin": "Nissan GT-R",
+    "country": "Japan",
+    "series": "RLC",
+    "yearIntroduced": 2007,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": null,
+    "releaseDate": "2026-12-15",
+    "availability": "Upcoming",
+    "images": {
+      "diecast": null,
+      "realCar": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nissan_GT-R_%28R35%29.jpg/320px-Nissan_GT-R_%28R35%29.jpg",
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Sports Car"
+  },
+  {
+    "id": "car-culture-2026-toyota-supra",
+    "name": "Car Culture 2026 Toyota Supra",
+    "castingName": "Toyota Supra",
+    "origin": "Toyota Supra",
+    "country": "Japan",
+    "series": "Car Culture",
+    "yearIntroduced": 1993,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": null,
+    "releaseDate": "2026-11-15",
+    "availability": "Upcoming",
+    "images": {
+      "diecast": null,
+      "realCar": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/1993_Toyota_Supra.jpg/320px-1993_Toyota_Supra.jpg",
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Sports Car"
+  },
+  {
+    "id": "premium-2026-lamborghini-aventador",
+    "name": "Premium 2026 Lamborghini Aventador",
+    "castingName": "Lamborghini Aventador",
+    "origin": "Lamborghini Aventador",
+    "country": "Italy",
+    "series": "Premium",
+    "yearIntroduced": 2011,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": null,
+    "releaseDate": "2026-10-01",
+    "availability": "In Stores",
+    "images": {
+      "diecast": null,
+      "realCar": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Lamborghini_Aventador_LP_700-4_%28front%29.jpg/320px-Lamborghini_Aventador_LP_700-4_%28front%29.jpg",
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Supercar"
+  },
+  {
+    "id": "hw-city-2026-tesla-model-3",
+    "name": "HW City 2026 Tesla Model 3",
+    "castingName": "Tesla Model 3",
+    "origin": "Tesla Model 3",
+    "country": "USA",
+    "series": "HW City",
+    "yearIntroduced": 2017,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": null,
+    "releaseDate": "2026-09-15",
+    "availability": "In Stores",
+    "images": {
+      "diecast": null,
+      "realCar": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Tesla_Model_3_%282018%29.jpg/320px-Tesla_Model_3_%282018%29.jpg",
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Sedan"
+  },
+  {
+    "id": "fast-furious-2026-brians-nissan-skyline",
+    "name": "Fast & Furious 2026 Brian's Nissan Skyline",
+    "castingName": "Nissan Skyline GT-R R34",
+    "origin": "Nissan Skyline GT-R",
+    "country": "Japan",
+    "series": "Fast & Furious",
+    "yearIntroduced": 2001,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": null,
+    "releaseDate": "2026-11-01",
+    "availability": "Upcoming",
+    "images": {
+      "diecast": null,
+      "realCar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nissan_Skyline_GT-R_R34.jpg/320px-Nissan_Skyline_GT-R_R34.jpg",
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Sports Car"
+  },
+  {
+    "id": "2026-treasure-hunt-2",
+    "name": "2026 Treasure Hunt - Bone Shaker TH",
+    "castingName": "Bone Shaker",
+    "origin": "Original Hot Wheels casting",
+    "country": "USA",
+    "series": "Mainline TH",
+    "yearIntroduced": 2007,
+    "treasureHunt": true,
+    "superTreasureHunt": false,
+    "caseLetter": "Case N",
+    "releaseDate": "2026-08-15",
+    "availability": "In Stores",
+    "images": {
+      "diecast": null,
+      "realCar": null,
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Muscle"
+  },
+  {
+    "id": "2027-super-treasure-hunt-1",
+    "name": "2027 Super Treasure Hunt - '69 Charger STH",
+    "castingName": "'69 Charger",
+    "origin": "Dodge Charger",
+    "country": "USA",
+    "series": "Mainline STH",
+    "yearIntroduced": 1969,
+    "treasureHunt": false,
+    "superTreasureHunt": true,
+    "caseLetter": "Case A",
+    "releaseDate": "2027-02-01",
+    "availability": "Upcoming",
+    "images": {
+      "diecast": null,
+      "realCar": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Dodge-Charger-1969-Back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Muscle"
+  },
+  {
+    "id": "premium-2027-ford-gt",
+    "name": "Premium 2027 Ford GT",
+    "castingName": "Ford GT",
+    "origin": "Ford GT",
+    "country": "USA",
+    "series": "Premium",
+    "yearIntroduced": 2005,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": null,
+    "releaseDate": "2027-01-15",
+    "availability": "Upcoming",
+    "images": {
+      "diecast": null,
+      "realCar": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ford_GT_%282005%29.jpg/320px-Ford_GT_%282005%29.jpg",
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Supercar"
+  },
+  {
+    "id": "car-culture-2027-mazda-rx-7",
+    "name": "Car Culture 2027 Mazda RX-7",
+    "castingName": "Mazda RX-7",
+    "origin": "Mazda RX-7",
+    "country": "Japan",
+    "series": "Car Culture",
+    "yearIntroduced": 1978,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": null,
+    "releaseDate": "2027-04-01",
+    "availability": "Upcoming",
+    "images": {
+      "diecast": null,
+      "realCar": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Mazda_RX-7_%28FD%29.jpg/320px-Mazda_RX-7_%28FD%29.jpg",
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Coupe"
+  },
+  {
+    "id": "hw-monster-jam-2027-el-toro-loco",
+    "name": "HW Monster Jam 2027 El Toro Loco",
+    "castingName": "El Toro Loco",
+    "origin": "Monster Jam",
+    "country": "USA",
+    "series": "Monster Jam",
+    "yearIntroduced": 2001,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": null,
+    "releaseDate": "2027-05-01",
+    "availability": "Upcoming",
+    "images": {
+      "diecast": null,
+      "realCar": null,
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Truck"
+  },
+  {
+    "id": "silver-2026-nissan-skyline-r34",
+    "name": "Silver 2026 Nissan Skyline GT-R R34",
+    "castingName": "Nissan Skyline GT-R R34",
+    "origin": "Nissan Skyline GT-R",
+    "country": "Japan",
+    "series": "Silver",
+    "yearIntroduced": 2026,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": null,
+    "releaseDate": "2026-11-01",
+    "availability": "Upcoming",
+    "images": {
+      "diecast": null,
+      "realCar": "https://upload.wikimedia.org/wikipedia/commons/5/5b/1991_Nissan_Skyline_GT-R.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Sports Car"
+  },
+  {
+    "id": "silver-2027-toyota-supra-mk5",
+    "name": "Silver 2027 Toyota Supra MK5",
+    "castingName": "Toyota Supra",
+    "origin": "Toyota Supra",
+    "country": "Japan",
+    "series": "Silver",
+    "yearIntroduced": 2027,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": null,
+    "releaseDate": "2027-03-01",
+    "availability": "Upcoming",
+    "images": {
+      "diecast": null,
+      "realCar": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Toyota_GR_Supra_SZ-R_%283BA-DB82-ZSRW%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Sports Car"
+  },
+  {
+    "id": "gold-2026-porsche-911-gt3-rs",
+    "name": "Gold 2026 Porsche 911 GT3 RS",
+    "castingName": "Porsche 911 GT3 RS",
+    "origin": "Porsche 911",
+    "country": "Germany",
+    "series": "Gold",
+    "yearIntroduced": 2026,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": null,
+    "releaseDate": "2026-12-01",
+    "availability": "Upcoming",
+    "images": {
+      "diecast": null,
+      "realCar": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Porsche_992_GT3_1X7A0323.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Sports Car"
+  },
+  {
+    "id": "gold-2027-lamborghini-huracan",
+    "name": "Gold 2027 Lamborghini Huracan",
+    "castingName": "Lamborghini Huracan",
+    "origin": "Lamborghini Huracan",
+    "country": "Italy",
+    "series": "Gold",
+    "yearIntroduced": 2027,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": null,
+    "releaseDate": "2027-06-01",
+    "availability": "Upcoming",
+    "images": {
+      "diecast": null,
+      "realCar": "https://upload.wikimedia.org/wikipedia/commons/6/67/Lamborghini_Huracan%2C_EMS_2024%2C_Essen_%28P1032274%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Supercar"
+  },
+  {
+    "id": "base-2026-ford-mustang",
+    "name": "Base 2026 Ford Mustang",
+    "castingName": "Ford Mustang",
+    "origin": "Ford Mustang",
+    "country": "USA",
+    "series": "Base",
+    "yearIntroduced": 2026,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": null,
+    "releaseDate": "2026-10-15",
+    "availability": "Upcoming",
+    "images": {
+      "diecast": null,
+      "realCar": "https://upload.wikimedia.org/wikipedia/commons/6/6c/2019_Ford_Mustang_GT_Blue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Muscle"
+  },
+  {
+    "id": "base-2027-chevy-camaro",
+    "name": "Base 2027 Chevy Camaro",
+    "castingName": "Chevy Camaro",
+    "origin": "Chevrolet Camaro",
+    "country": "USA",
+    "series": "Base",
+    "yearIntroduced": 2027,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": null,
+    "releaseDate": "2027-02-01",
+    "availability": "Upcoming",
+    "images": {
+      "diecast": null,
+      "realCar": "https://upload.wikimedia.org/wikipedia/commons/2/2f/2019_Chevrolet_Camaro_base%2C_front_11.9.19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Muscle"
+  },
+  {
+    "id": "mainline-2027-chevrolet-camaro-zl1",
+    "name": "2027 Mainline Chevrolet Camaro ZL1",
+    "castingName": "Chevrolet Camaro ZL1",
+    "origin": "Chevrolet Camaro",
+    "country": "USA",
+    "series": "Mainline",
+    "yearIntroduced": 2027,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": null,
+    "releaseDate": "2027-01-15",
+    "availability": "Upcoming",
+    "images": {
+      "diecast": null,
+      "realCar": "https://upload.wikimedia.org/wikipedia/commons/2/2f/2019_Chevrolet_Camaro_base%2C_front_11.9.19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Muscle"
+  },
+  {
+    "id": "premium-2027-ferrari-f40",
+    "name": "Premium 2027 Ferrari F40",
+    "castingName": "Ferrari F40",
+    "origin": "Ferrari F40",
+    "country": "Italy",
+    "series": "Premium",
+    "yearIntroduced": 2027,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": null,
+    "releaseDate": "2027-05-01",
+    "availability": "Upcoming",
+    "images": {
+      "diecast": null,
+      "realCar": "https://upload.wikimedia.org/wikipedia/commons/c/cb/F40_Ferrari_20090509.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Supercar"
+  },
+  {
+    "id": "car-culture-2027-nissan-silvia-s15",
+    "name": "Car Culture 2027 Nissan Silvia S15",
+    "castingName": "Nissan Silvia S15",
+    "origin": "Nissan Silvia",
+    "country": "Japan",
+    "series": "Car Culture",
+    "yearIntroduced": 2027,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": null,
+    "releaseDate": "2027-07-01",
+    "availability": "Upcoming",
+    "images": {
+      "diecast": null,
+      "realCar": "https://upload.wikimedia.org/wikipedia/commons/d/df/Nissan_Silvia_001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Coupe"
+  },
+  {
+    "id": "monster-jam-2027-grave-digger",
+    "name": "Monster Jam 2027 Grave Digger",
+    "castingName": "Grave Digger",
+    "origin": "Monster Jam",
+    "country": "USA",
+    "series": "Monster Jam",
+    "yearIntroduced": 2027,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": null,
+    "releaseDate": "2027-08-01",
+    "availability": "Upcoming",
+    "images": {
+      "diecast": null,
+      "realCar": null,
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Truck"
+  },
+  {
+    "id": "fast-furious-2027-dominics-charger",
+    "name": "Fast & Furious 2027 Dominic's Charger",
+    "castingName": "Dodge Charger",
+    "origin": "Dodge Charger",
+    "country": "USA",
+    "series": "Fast & Furious",
+    "yearIntroduced": 2027,
+    "treasureHunt": false,
+    "superTreasureHunt": false,
+    "caseLetter": null,
+    "releaseDate": "2027-09-01",
+    "availability": "Upcoming",
+    "images": {
+      "diecast": null,
+      "realCar": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Dodge_Charger_Hirschaid-20220709-RM-113717.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "fallbackUsed": true
+    },
+    "sources": {
+      "release": "HotWheelsHub",
+      "details": "Hot Wheels Fandom Wiki"
+    },
+    "lastUpdated": "2026-10-15",
+    "type": "Muscle"
+  }
+]
